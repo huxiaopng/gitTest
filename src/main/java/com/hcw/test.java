@@ -6,5 +6,6 @@ public class test {
         System.out.println("what do you du");
         System.out.println("dududu");
         System.out.println("master commit gitTest1");
+        System.out.println("hot-fix commit gitTest");
     }
 }
